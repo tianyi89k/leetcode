@@ -1,0 +1,3 @@
+Top-k is a question that we find the top k elements in an array.
+if we sort the entire array. we need O(nlgn) time at least. However in the bubble sort, we only need O(n*k) time. In the four Sorting 
+Algorithms of O(nlgn), by their feature, the Heap sort only need (n*lgk) time。
